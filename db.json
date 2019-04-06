@@ -1,14 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+	"professors": [{
+			"title": "Prof. Dr.",
+			"picture":
+			"https://w3-mediapool.hm.edu/mediapool/media/fk07/fk07_lokal/diefakultt_4/ansprechpartner_2/professoren_1/socher/bilder_39/socher_ContactBild.jpg",
+			"firstname": "Gudrun",
+			"lastname": "Socher",
+			"eMail": "gudrun.socher@hm.edu",
+			"telephone": "089 1265-3743",
+			"room": "R 4.029",
+			"role": "Internationalisation Officer at the Department for Computer Science and Mathematic",
+			"subjects": [{
+					"name": "Human Computer Interaction"
+				}, {
+					"name": "Computer Vision"
+				}, {
+					"name": "Software Engineering"
+				}, {
+					"name": "Mobile Applications"
+				}
+			]
+		}
+	}
