@@ -2,7 +2,7 @@
 	"professors": [{
 			"title": "Prof. Dr.",
 			"picture":
-			"https://w3-mediapool.hm.edu/mediapool/media/fk07/fk07_lokal/diefakultt_4/ansprechpartner_2/professoren_1/socher/bilder_39/socher_ContactBild.jpg",
+			"/socher/bilder_39/socher_ContactBild.jpg",
 			"firstname": "Gudrun",
 			"lastname": "Socher",
 			"eMail": "gudrun.socher@hm.edu",
