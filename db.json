@@ -1,7 +1,7 @@
 {
 	"professors": [{
 			"title": "Prof. Dr.",
-			"picture":
+			"picturePath":
 			"/socher/bilder_39/socher_ContactBild.jpg",
 			"firstname": "Gudrun",
 			"lastname": "Socher",
